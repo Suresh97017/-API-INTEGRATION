@@ -57,3 +57,8 @@ NOTE:
 API Key Requirement :
 
 To make the project work, you need to register at OpenWeatherMap and get a free API key. This key is like a password that allows you to use the API. 
+
+
+OUTPUT :
+
+WEATHER-API 

@@ -61,4 +61,4 @@ To make the project work, you need to register at OpenWeatherMap and get a free 
 
 OUTPUT :
 
-WEATHER-API.png
+![Image](https://github.com/user-attachments/assets/16f9789b-ce33-4ede-bb20-a709d8c7de63)

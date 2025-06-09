@@ -61,4 +61,4 @@ To make the project work, you need to register at OpenWeatherMap and get a free 
 
 OUTPUT :
 
-Weather App and 5 more pages - Personal - Microsoft​ Edge 6_9_2025 7_09_35 PM
+WEATHER-API
